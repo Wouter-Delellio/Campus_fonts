@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Font One';
+    src: url('./font-one/Freight Sans Book.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font One';
+    src: url('./font-one/Freight Sans Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Font One';
+    src: url('./font-one/Montserrat-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
